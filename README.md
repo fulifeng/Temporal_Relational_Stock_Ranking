@@ -6,7 +6,7 @@ Python 3.6 & Tensorflow > 1.3
 
 ## Data
 
-All data, including Sequential Data, Industry Relation, and Wiki Relation, are under the [data](https://github.com/hennande/Temporal_Relational_Stock_Ranking/data) folder.
+All data, including Sequential Data, Industry Relation, and Wiki Relation, are under the [data](https://github.com/hennande/Temporal_Relational_Stock_Ranking/tree/master/data) folder.
 
 ### Sequential Data
 
