@@ -1,4 +1,6 @@
-Code for the Relational Stock Ranking (RSR) model and the Temporal Graph Convolution in our paper "Temporal Relational Ranking for Stock Prediction", [\[paper\]](https://arxiv.org/abs/1809.09441).
+Data and code for paper review. More details will be provided once accepted.
+
+<!---Code for the Relational Stock Ranking (RSR) model and the Temporal Graph Convolution in our paper "Temporal Relational Ranking for Stock Prediction", [\[paper\]](https://arxiv.org/abs/1809.09441).
 
 ## Environment
 
@@ -78,3 +80,4 @@ If you use the code, please kindly cite the following paper:
 ## Contact
 
 fulifeng93@gmail.com
+--->
