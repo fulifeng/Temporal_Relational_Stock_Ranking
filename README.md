@@ -67,11 +67,15 @@ to enable gpu acceleration, add the flag of:
 
 If you use the code, please kindly cite the following paper:
 ```
-@article{feng2018temporal,
-  title={Temporal Relational Ranking for Stock Prediction},
+@article{feng2019temporal,
+  title={Temporal relational ranking for stock prediction},
   author={Feng, Fuli and He, Xiangnan and Wang, Xiang and Luo, Cheng and Liu, Yiqun and Chua, Tat-Seng},
-  journal={arXiv preprint arXiv:1809.09441},
-  year={2018}
+  journal={ACM Transactions on Information Systems (TOIS)},
+  volume={37},
+  number={2},
+  pages={27},
+  year={2019},
+  publisher={ACM}
 }
 ```
 
